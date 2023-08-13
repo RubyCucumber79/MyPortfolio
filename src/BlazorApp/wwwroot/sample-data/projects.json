@@ -1,16 +1,12 @@
 [
   {
     "title": "Simplifying Trading using Python and ANN 🎉",
-    "description": "Implemented a python-based project using Artificial Neural Networks (ANN) to generate buy and sell signals for optimal trades based on OHLC datasets.
-    Designed strategies through domain knowledge of the stock market.
-    ",
+    "description": "Implemented a python-based project using Artificial Neural Networks (ANN) to generate buy and sell signals for optimal trades based on OHLC datasets.Designed strategies through domain knowledge of the stock market.",
     "url": "https://github.com/RubyCucumber79/TestingProject1"
   },
   {
     "title": "Deep Learning ChatBot",
-    "description": "Developed a chatbot utilizing ANN and deep learning to provide industry-specific product information to end-users.
-    Trained the model using a JSON file containing responses.
-    ",
+    "description": "Developed a chatbot utilizing ANN and deep learning to provide industry-specific product information to end-users.Trained the model using a JSON file containing responses.",
     "url": "https://github.com/RubyCucumber79/DeepLearningChatBot"
   },
   {
